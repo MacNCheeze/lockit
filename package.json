@@ -23,14 +23,14 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zeMirco/lockit"
+    "url": "https://github.com/koolaid1551/lockit"
   },
   "dependencies": {
-    "lockit-signup": "1.1.0",
-    "lockit-login": "1.1.2",
-    "lockit-forgot-password": "1.1.1",
-    "lockit-delete-account": "1.0.3",
-    "lockit-utils": "0.5.0",
+    "lockit-signup": "https://github.com/koolaid1551/lockit-signup/tarball/tc",
+    "lockit-login": "https://github.com/koolaid1551/lockit-login/tarball/tc",
+    "lockit-forgot-password": "https://github.com/koolaid1551/lockit-forgot-password/tarball/tc",
+    "lockit-delete-account": "https://github.com/koolaid1551/lockit-delete-account/tarball/tc",
+    "lockit-utils": "https://github.com/koolaid1551/lockit-utilities/tarball/tc",
     "chalk": "~0.4.0",
     "lockit-sql-adapter": "0.5.1",
     "node.extend": "^1.0.10",
